@@ -291,4 +291,4 @@ let g:airline_theme = 'onedark'
 " Настройки для темы
 set termguicolors
 set background=dark
-color onedark
+color onedark * hi Error NONE
